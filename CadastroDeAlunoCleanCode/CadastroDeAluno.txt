@@ -1,0 +1,1 @@
+Aluno, Nome= eduarda, CPF= 0, Curso= cc, Endereço= araci, 0, fenix, sbc, sp, 784547

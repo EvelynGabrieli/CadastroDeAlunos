@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alunos>
+    <aluno id="1">
+        <nome>eduarda</nome>
+        <curso>cc</curso>
+        <endereco>
+            <rua>araci</rua>
+            <estado>sp</estado>
+            <cidade>sbc</cidade>
+            <bairro>fenix</bairro>
+            <cep>784547</cep>
+        </endereco>
+    </aluno>
+</alunos>
